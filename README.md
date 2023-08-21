@@ -15,4 +15,4 @@
 * MS Excel
 
 ### Как со мной связаться:
-<p><a href="https://www.linkedin.com/in/алиса-алешина-63b11618a/"><img align="left" alt="ALisaLisaALisa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></p>
+<p><a href="https://www.linkedin.com/in/alisromanna/"><img align="left" alt="ALisaLisaALisa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></p>
