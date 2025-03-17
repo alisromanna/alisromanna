@@ -1,6 +1,8 @@
 ### Привет! Я Алиса Алешина 👋
 
-Я маркетинговый аналитик в игровой компании G5 Entertainment AB:
+💻 В настоящее время я рассматриваю возможности для удаленной работы вне РФ, а также работы в офисе или в гибридном формате в Грузии, Казахстане, Сербии или Черногории.
+
+В роли маркетингового аналитика игровой компании G5 Entertainment AB я:
 - Провожу когортный анализ пользователей разных рекламных каналов и сторов: оценка удержания, конверсии, денежных метрик
 - Поддерживаю A/B-тесты в маркетинге: дизайны экспериментов, сбор данных, подведение итогов
 - Анализирую рекламные кампаний с использованием временных рядов (Causal Impact) 
@@ -19,5 +21,6 @@
 * Google Sheets, MS Excel
 
 ### Как со мной связаться:
-<p><a href="https://www.linkedin.com/in/alisromanna/"><img align="left" alt="alisromanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></p>
-<p><a href="https://t.me/alisromanna"><img align="left" alt="alisromanna | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></p>
+<p><a href="https://www.linkedin.com/in/alisromanna/"><img align="left" alt="alisromanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></p> [linkedin|https://www.linkedin.com/in/alisromanna/]
+  
+<p><a href="https://t.me/alisromanna"><img align="left" alt="alisromanna | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" /></p> telegram
